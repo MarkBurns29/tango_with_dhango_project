@@ -135,5 +135,3 @@ STATIC_URL = '/static/'
 # Media
 MEDIA_ROOT = MEDIA_DIR
 MEDIA_URL = '/media/'
-
-
